@@ -1,16 +1,7 @@
-# speechtotext
+## Whisper-Remindify
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- 🎙️ **Voice-to-Text Notes** – Convert your speech into text instantly.
+- ⏰ **Smart Reminders** – Set reminders with voice commands.
+- 📝 **Quick Note Taking** – Save ideas, thoughts, or tasks effortlessly.
+- 🔔 **Reminder Notifications** – Get timely alerts for scheduled tasks.
+- 🌙 **Minimal UI/UX** – Clean, intuitive interface designed for easy use.
